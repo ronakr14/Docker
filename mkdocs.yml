@@ -31,7 +31,6 @@ plugins:
   - mkdocstrings
 
 nav:
-  - Notes Homepage: https://ronakr14.github.io/Collectives/
   - Containers Home: https://ronakr14.github.io/Containers/
   - Docker Home: index.md
   - Quick Guide: quick_guide.md
